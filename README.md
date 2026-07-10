@@ -1,11 +1,28 @@
-# 👋 Hi, I'm Mouad (@louffy007)
+# Hi there! 👋 I'm Mouad
 
-* 👀 I'm passionate about Frontend Development and creating clean, responsive, and accessible websites.
-* 🌱 I'm currently learning modern HTML and CSS, with a strong focus on responsive design, Flexbox, CSS Grid, and writing maintainable code.
-* 🎯 I'm improving my skills by building real-world projects and Frontend Mentor challenges.
-* 💞️ I'm open to collaborating on beginner-friendly frontend projects and learning with other developers.
-* 📫 You can reach me here on GitHub.
-* ⚡ Fun fact: I prefer learning by building projects from scratch and understanding *why* things work instead of just following tutorials.
+I'm an aspiring frontend developer who enjoys building responsive, accessible, and modern websites. I believe the best way to grow is by creating real projects and understanding the reasoning behind every solution.
+
+In a world where AI can generate code in seconds, my goal is to first master the fundamentals. I'm building a strong foundation by learning how things work before relying on tools to speed up my workflow.
+
+At the moment, I'm focused on mastering HTML and CSS through Frontend Mentor challenges, while continuously improving my problem-solving skills and writing cleaner, more maintainable code.
+
+## 🌱 Currently Learning
+
+* Modern HTML
+* CSS
+* Responsive Design
+* Flexbox
+* CSS Grid
+* Git & GitHub
+
+## 🎯 Current Goal
+
+Build a strong frontend foundation before moving on to JavaScript and modern frameworks.
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories or reach out if you'd like to learn or collaborate on frontend projects.
+
 
 <!---
 louffy007/louffy007 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
