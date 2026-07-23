@@ -1,29 +1,57 @@
-# Hi there! 👋 I'm Mouad
+# Hi, I'm Tebbaai Mouad 👋
 
-I'm an aspiring frontend developer who enjoys building responsive, accessible, and modern websites. I believe the best way to grow is by creating real projects and understanding the reasoning behind every solution.
+I'm a frontend developer passionate about building responsive, accessible, and maintainable web experiences.
+I believe great developers are built on strong fundamentals. My journey is centered around learning deeply, building consistently, and growing one project at a time.
 
-In a world where AI can generate code in seconds, my goal is to first master the fundamentals. I'm building a strong foundation by learning how things work before relying on tools to speed up my workflow.
+## 💡 My Philosophy
 
-At the moment, I'm focused on mastering HTML and CSS through Frontend Mentor challenges, while continuously improving my problem-solving skills and writing cleaner, more maintainable code.
+In a world where AI can generate code in seconds, I'm choosing to first master the fundamentals.
 
-## 🌱 Currently Learning
+I believe that understanding the "why" behind every solution is what turns AI from a shortcut into a powerful tool. My goal is to build the knowledge and confidence to create software with intention, then use modern tools to work faster—not to replace understanding.
 
-* Modern HTML
-* CSS
-* Responsive Design
-* Flexbox
-* CSS Grid
-* Git & GitHub
 
-## 🎯 Current Goal
+## 🎯 Current Focus
 
-Build a strong frontend foundation before moving on to JavaScript and modern frameworks.
+- Building responsive and accessible user interfaces.
+- Mastering HTML & CSS before moving to JavaScript.
+- Solving real-world challenges through Frontend Mentor.
+- Improving code quality, maintainability, and attention to detail.
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- Responsive Design
+- Flexbox
+- CSS Grid
+
+### CMS
+- WordPress
+- Elementor
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+
+## 🚀 Current Roadmap
+
+- ✅ HTML
+- ✅ CSS
+- 🔄 Advanced CSS & Responsive Design
+- ⏳ JavaScript
+- ⏳ React
+- ⏳ TypeScript
 
 ## 🤝 Let's Connect
 
-Feel free to explore my repositories or reach out if you'd like to learn or collaborate on frontend projects.
+- 🌐 Portfolio: https://tebbaaimouad.com
+- 💼 LinkedIn:  https://www.linkedin.com/in/tebbaaimouad
+- 🎯 Frontend Mentor: https://www.frontendmentor.io/profile/tebbaaimouad
 
+If you'd like to connect, collaborate, or simply follow my journey, feel free to reach out.
 
-<!---
-louffy007/louffy007 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+"Every project is another brick in the foundation."
